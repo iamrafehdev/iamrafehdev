@@ -48,7 +48,7 @@ Laravel             8 hrs 12 mins   ███████▒░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
- [![Rafeh's github stats](https://github-readme-stats.vercel.app/api?username=iamrafehdev&theme=gotham)](https://github.com/iamrafehdev/github-readme-stats)
+ ![Rafeh's github stats](https://github-readme-stats.vercel.app/api?username=iamrafehdev&theme=gotham)
 <br />
 <br />
 
